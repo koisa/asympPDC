@@ -3,4 +3,4 @@ Matlab/octave code for all three forms of partial directed coherence (PDC) and d
 
 ## Latest update for asympPDC Package
 
-Check [at this link](https://github.com/asymppdc/asympPDC)
+Check [at this link](https://github.com/asymppdc/asympPDC) or at [![View asympPDC Package on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/116290-asymppdc-package).
